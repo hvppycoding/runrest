@@ -1,4 +1,4 @@
-## runrest
+# runrest
 A wrapper for running [REST](https://github.com/cuhk-eda/REST), a reinforcement learning framework for constructing rectilinear Steiner Minimum tree (RSMT)
 
 ## License
