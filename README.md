@@ -5,7 +5,7 @@ A wrapper for running [REST](https://github.com/cuhk-eda/REST), a reinforcement 
 ## Installation
 
 ```bash
-git clone
+git clone https://github.com/hvppycoding/runrest.git
 cd runrest
 pip install .
 ```
