@@ -2,6 +2,14 @@
 
 A wrapper for running [REST](https://github.com/cuhk-eda/REST), a reinforcement learning framework for constructing rectilinear Steiner Minimum tree (RSMT)
 
+## Installation
+
+```bash
+git clone
+cd runrest
+pip install .
+```
+
 ## How to use
 
 ```bash
